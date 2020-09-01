@@ -1,0 +1,6 @@
+Error on running Init again:
+===========================
+
+(py37) suresh@suresh-py:~/tact/touchliner-docker-compose$ python FlaskMigrate.py db init
+Error: Directory migrations already exists and is not empty
+
